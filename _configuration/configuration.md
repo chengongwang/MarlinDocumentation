@@ -1309,7 +1309,7 @@ These controllers all require the [LiquidCrystal_I2C library](https://github.com
 
 ### I2C Graphical LCDs
 
-These controllers all require the [LiquidCrystal_I2C library](https://github.com/kiyoshigawa/LiquidCrystal_I2C).
+These controllers all require the [U8glib library](https://github.com/olikraus/u8glib).
 
 - `U8GLIB_SSD1306`: SSD1306 OLED full graphics generic display.
 - `SAV_3DGLCD`: SAV OLED LCD module support using either SSD1306 or SH1106 based LCD modules.
